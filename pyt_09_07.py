@@ -53,7 +53,11 @@
 #         # print(ii)
 #         print(i + ii)
 
-a = 'asd'
+# a = 'asd'
 
-if not a.isnumeric():
-    print('y')
+# if not a.isnumeric():
+#     print('y')
+
+# a = 3.1415e1
+
+# print(a)
