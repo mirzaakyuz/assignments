@@ -107,15 +107,8 @@
 
 # print(r"\nhello")
 
-# print("new" "line", 2)
+# print("new" "line"
 
-from random import choice
+from fibo import display
 
-city = ['Stockholm', 'Istanbul', 'Seul', 'Cape Town']
-print(choice(city))  
-
-import math
-print(dir(math))
-
-import random
-print(random.random())
+display('aaaaa', True)

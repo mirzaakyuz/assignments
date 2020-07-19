@@ -14,3 +14,9 @@ def fib2(n):   # return Fibonacci series up to n
         result.append(a)
         a, b = b, a+b
     return result
+
+
+def display(message, is_warning=False):
+    if is_warning:
+        print('Warning!')
+    print(message)
