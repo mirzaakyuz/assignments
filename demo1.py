@@ -109,6 +109,50 @@
 
 # print("new" "line"
 
-from fibo import display
+# from fibo import display
 
-display('aaaaa', True)
+# display('aaaaa', True)
+
+# numc=[5,2],[5,3],[5,4]
+# for numd in numc:
+#     print((lambda x,n:  x**n )(*numd))
+
+# def my_Print(n = None):
+#     return lambda x: x + n
+
+# my_Print_smile = my_Print(':)')
+# my_Print_sad = my_Print(':(')
+# my_Print_neutral = my_Print(':|')
+
+# print(my_Print_smile('kasa '))
+# print(my_Print_sad('tasa '))
+# print(my_Print_neutral('masa '))
+
+# def equal(a,b,c):
+#     numbers = [a,b,c]
+#     res = numbers.count(max(numbers, key=numbers.count))
+
+# testDict = {'x':1 ,'y':2,'z':3}
+
+# def test(x,y,z):
+#     print(x,y,z)
+
+# test(**testDict)
+
+# for i in testDict:
+#     print(i, testDict[i])
+
+# from datetime import date
+
+# birth = date(571,4,22)
+# vefat = date(632,6,8)
+
+# y = vefat - birth
+
+# x = date.toordinal(vefat)-date.toordinal(birth)
+# print(y)
+
+# from math import *
+
+# print(sqrt(81))
+
